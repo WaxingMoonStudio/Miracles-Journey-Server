@@ -1,0 +1,293 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"natural": "true",
+			"facing": "north",
+			"animation_state": "0"
+		},
+		"Name": "sculkybits:sculk_jaw"
+	},
+	{
+		"Name": "sculkybits:sculk_jaw"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"natural": "true",
+			"facing": "south",
+			"animation_state": "0"
+		},
+		"Name": "sculkybits:sculk_jaw"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"natural": "false",
+			"facing": "south",
+			"animation_state": "0"
+		},
+		"Name": "sculkybits:sculk_jaw"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"natural": "true",
+			"facing": "west",
+			"animation_state": "0"
+		},
+		"Name": "sculkybits:sculk_jaw"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"natural": "false",
+			"facing": "west",
+			"animation_state": "0"
+		},
+		"Name": "sculkybits:sculk_jaw"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"natural": "true",
+			"facing": "east",
+			"animation_state": "0"
+		},
+		"Name": "sculkybits:sculk_jaw"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"natural": "false",
+			"facing": "east",
+			"animation_state": "0"
+		},
+		"Name": "sculkybits:sculk_jaw"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"natural": "true",
+			"facing": "north",
+			"animation_state": "1"
+		},
+		"Name": "sculkybits:sculk_jaw"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"natural": "false",
+			"facing": "north",
+			"animation_state": "1"
+		},
+		"Name": "sculkybits:sculk_jaw"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"natural": "true",
+			"facing": "south",
+			"animation_state": "1"
+		},
+		"Name": "sculkybits:sculk_jaw"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"natural": "false",
+			"facing": "south",
+			"animation_state": "1"
+		},
+		"Name": "sculkybits:sculk_jaw"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"natural": "true",
+			"facing": "west",
+			"animation_state": "1"
+		},
+		"Name": "sculkybits:sculk_jaw"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"natural": "false",
+			"facing": "west",
+			"animation_state": "1"
+		},
+		"Name": "sculkybits:sculk_jaw"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"natural": "true",
+			"facing": "east",
+			"animation_state": "1"
+		},
+		"Name": "sculkybits:sculk_jaw"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"natural": "false",
+			"facing": "east",
+			"animation_state": "1"
+		},
+		"Name": "sculkybits:sculk_jaw"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"natural": "true",
+			"facing": "north",
+			"animation_state": "2"
+		},
+		"Name": "sculkybits:sculk_jaw"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"natural": "false",
+			"facing": "north",
+			"animation_state": "2"
+		},
+		"Name": "sculkybits:sculk_jaw"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"natural": "true",
+			"facing": "south",
+			"animation_state": "2"
+		},
+		"Name": "sculkybits:sculk_jaw"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"natural": "false",
+			"facing": "south",
+			"animation_state": "2"
+		},
+		"Name": "sculkybits:sculk_jaw"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"natural": "true",
+			"facing": "west",
+			"animation_state": "2"
+		},
+		"Name": "sculkybits:sculk_jaw"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"natural": "false",
+			"facing": "west",
+			"animation_state": "2"
+		},
+		"Name": "sculkybits:sculk_jaw"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"natural": "true",
+			"facing": "east",
+			"animation_state": "2"
+		},
+		"Name": "sculkybits:sculk_jaw"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"natural": "false",
+			"facing": "east",
+			"animation_state": "2"
+		},
+		"Name": "sculkybits:sculk_jaw"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"natural": "true",
+			"facing": "north",
+			"animation_state": "3"
+		},
+		"Name": "sculkybits:sculk_jaw"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"natural": "false",
+			"facing": "north",
+			"animation_state": "3"
+		},
+		"Name": "sculkybits:sculk_jaw"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"natural": "true",
+			"facing": "south",
+			"animation_state": "3"
+		},
+		"Name": "sculkybits:sculk_jaw"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"natural": "false",
+			"facing": "south",
+			"animation_state": "3"
+		},
+		"Name": "sculkybits:sculk_jaw"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"natural": "true",
+			"facing": "west",
+			"animation_state": "3"
+		},
+		"Name": "sculkybits:sculk_jaw"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"natural": "false",
+			"facing": "west",
+			"animation_state": "3"
+		},
+		"Name": "sculkybits:sculk_jaw"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"natural": "true",
+			"facing": "east",
+			"animation_state": "3"
+		},
+		"Name": "sculkybits:sculk_jaw"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"natural": "false",
+			"facing": "east",
+			"animation_state": "3"
+		},
+		"Name": "sculkybits:sculk_jaw"
+	}
+]

@@ -1,12 +1,54 @@
+/.mixin.out
+
+/.vscode
+
+/armourers_workshop
+
+/backups
+
 # /config
+
+/crash-reports
+
+/debug
 
 # /defaultconfigs
 
+# /GraalvmJDK21 - 部分
+/GraalvmJDK21/bin
+/GraalvmJDK21/conf
+/GraalvmJDK21/include
+/GraalvmJDK21/jmods
+/GraalvmJDK21/languages
+/GraalvmJDK21/legal
+/GraalvmJDK21/lib
+/GraalvmJDK21/tools
+/GraalvmJDK21/GRAALVM-README.md
+/GraalvmJDK21/license-information-user-manual.zip
+/GraalvmJDK21/LICENSE.txt
+/GraalvmJDK21/release
+
+# /kubejs
+
 # /libraries
+
+/local
+
+/localconfigs
 
 /logs
 
+/modernfix
+
 # /mods
+
+/patchouli_books
+
+/quests_structures
+
+/thingpacks
+
+/tlm_custom_pack
 
 /world
 
@@ -22,9 +64,9 @@
 
 # /README.md
 
-# /run.bat
+/rhino.local.properties
 
-/run.sh
+# /run.bat
 
 # /server.properties
 

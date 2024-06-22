@@ -1,0 +1,1157 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "base",
+			"facing": "north"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "top",
+			"facing": "north"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "top",
+			"facing": "north"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "middle",
+			"facing": "north"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "middle",
+			"facing": "north"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "bottom",
+			"facing": "north"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "bottom",
+			"facing": "north"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "top_l",
+			"facing": "north"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "top_l",
+			"facing": "north"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "top_m",
+			"facing": "north"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "top_m",
+			"facing": "north"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "top_r",
+			"facing": "north"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "top_r",
+			"facing": "north"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "mid_l",
+			"facing": "north"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "mid_l",
+			"facing": "north"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "mid_m",
+			"facing": "north"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "mid_m",
+			"facing": "north"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "mid_r",
+			"facing": "north"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "mid_r",
+			"facing": "north"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "bot_l",
+			"facing": "north"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "bot_l",
+			"facing": "north"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "bot_m",
+			"facing": "north"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "bot_m",
+			"facing": "north"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "bot_r",
+			"facing": "north"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "bot_r",
+			"facing": "north"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "single_l",
+			"facing": "north"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "single_l",
+			"facing": "north"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "single_m",
+			"facing": "north"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "single_m",
+			"facing": "north"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "single_r",
+			"facing": "north"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "single_r",
+			"facing": "north"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "base",
+			"facing": "south"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "base",
+			"facing": "south"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "top",
+			"facing": "south"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "top",
+			"facing": "south"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "middle",
+			"facing": "south"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "middle",
+			"facing": "south"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "bottom",
+			"facing": "south"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "bottom",
+			"facing": "south"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "top_l",
+			"facing": "south"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "top_l",
+			"facing": "south"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "top_m",
+			"facing": "south"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "top_m",
+			"facing": "south"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "top_r",
+			"facing": "south"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "top_r",
+			"facing": "south"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "mid_l",
+			"facing": "south"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "mid_l",
+			"facing": "south"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "mid_m",
+			"facing": "south"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "mid_m",
+			"facing": "south"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "mid_r",
+			"facing": "south"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "mid_r",
+			"facing": "south"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "bot_l",
+			"facing": "south"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "bot_l",
+			"facing": "south"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "bot_m",
+			"facing": "south"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "bot_m",
+			"facing": "south"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "bot_r",
+			"facing": "south"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "bot_r",
+			"facing": "south"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "single_l",
+			"facing": "south"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "single_l",
+			"facing": "south"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "single_m",
+			"facing": "south"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "single_m",
+			"facing": "south"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "single_r",
+			"facing": "south"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "single_r",
+			"facing": "south"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "base",
+			"facing": "west"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "base",
+			"facing": "west"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "top",
+			"facing": "west"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "top",
+			"facing": "west"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "middle",
+			"facing": "west"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "middle",
+			"facing": "west"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "bottom",
+			"facing": "west"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "bottom",
+			"facing": "west"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "top_l",
+			"facing": "west"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "top_l",
+			"facing": "west"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "top_m",
+			"facing": "west"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "top_m",
+			"facing": "west"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "top_r",
+			"facing": "west"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "top_r",
+			"facing": "west"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "mid_l",
+			"facing": "west"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "mid_l",
+			"facing": "west"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "mid_m",
+			"facing": "west"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "mid_m",
+			"facing": "west"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "mid_r",
+			"facing": "west"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "mid_r",
+			"facing": "west"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "bot_l",
+			"facing": "west"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "bot_l",
+			"facing": "west"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "bot_m",
+			"facing": "west"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "bot_m",
+			"facing": "west"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "bot_r",
+			"facing": "west"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "bot_r",
+			"facing": "west"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "single_l",
+			"facing": "west"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "single_l",
+			"facing": "west"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "single_m",
+			"facing": "west"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "single_m",
+			"facing": "west"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "single_r",
+			"facing": "west"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "single_r",
+			"facing": "west"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "base",
+			"facing": "east"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "base",
+			"facing": "east"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "top",
+			"facing": "east"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "top",
+			"facing": "east"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "middle",
+			"facing": "east"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "middle",
+			"facing": "east"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "bottom",
+			"facing": "east"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "bottom",
+			"facing": "east"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "top_l",
+			"facing": "east"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "top_l",
+			"facing": "east"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "top_m",
+			"facing": "east"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "top_m",
+			"facing": "east"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "top_r",
+			"facing": "east"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "top_r",
+			"facing": "east"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "mid_l",
+			"facing": "east"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "mid_l",
+			"facing": "east"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "mid_m",
+			"facing": "east"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "mid_m",
+			"facing": "east"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "mid_r",
+			"facing": "east"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "mid_r",
+			"facing": "east"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "bot_l",
+			"facing": "east"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "bot_l",
+			"facing": "east"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "bot_m",
+			"facing": "east"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "bot_m",
+			"facing": "east"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "bot_r",
+			"facing": "east"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "bot_r",
+			"facing": "east"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "single_l",
+			"facing": "east"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "single_l",
+			"facing": "east"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "single_m",
+			"facing": "east"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "single_m",
+			"facing": "east"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "true",
+			"part": "single_r",
+			"facing": "east"
+		},
+		"Name": "mcwwindows:spruce_window"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"toggled": "false",
+			"part": "single_r",
+			"facing": "east"
+		},
+		"Name": "mcwwindows:spruce_window"
+	}
+]

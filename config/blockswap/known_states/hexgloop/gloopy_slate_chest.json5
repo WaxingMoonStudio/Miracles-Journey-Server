@@ -1,0 +1,484 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "single",
+			"facing": "north",
+			"energized": "true"
+		},
+		"Name": "hexgloop:gloopy_slate_chest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "single",
+			"facing": "north",
+			"energized": "true"
+		},
+		"Name": "hexgloop:gloopy_slate_chest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "left",
+			"facing": "north",
+			"energized": "true"
+		},
+		"Name": "hexgloop:gloopy_slate_chest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "left",
+			"facing": "north",
+			"energized": "true"
+		},
+		"Name": "hexgloop:gloopy_slate_chest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "right",
+			"facing": "north",
+			"energized": "true"
+		},
+		"Name": "hexgloop:gloopy_slate_chest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "right",
+			"facing": "north",
+			"energized": "true"
+		},
+		"Name": "hexgloop:gloopy_slate_chest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "single",
+			"facing": "south",
+			"energized": "true"
+		},
+		"Name": "hexgloop:gloopy_slate_chest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "single",
+			"facing": "south",
+			"energized": "true"
+		},
+		"Name": "hexgloop:gloopy_slate_chest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "left",
+			"facing": "south",
+			"energized": "true"
+		},
+		"Name": "hexgloop:gloopy_slate_chest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "left",
+			"facing": "south",
+			"energized": "true"
+		},
+		"Name": "hexgloop:gloopy_slate_chest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "right",
+			"facing": "south",
+			"energized": "true"
+		},
+		"Name": "hexgloop:gloopy_slate_chest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "right",
+			"facing": "south",
+			"energized": "true"
+		},
+		"Name": "hexgloop:gloopy_slate_chest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "single",
+			"facing": "west",
+			"energized": "true"
+		},
+		"Name": "hexgloop:gloopy_slate_chest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "single",
+			"facing": "west",
+			"energized": "true"
+		},
+		"Name": "hexgloop:gloopy_slate_chest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "left",
+			"facing": "west",
+			"energized": "true"
+		},
+		"Name": "hexgloop:gloopy_slate_chest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "left",
+			"facing": "west",
+			"energized": "true"
+		},
+		"Name": "hexgloop:gloopy_slate_chest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "right",
+			"facing": "west",
+			"energized": "true"
+		},
+		"Name": "hexgloop:gloopy_slate_chest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "right",
+			"facing": "west",
+			"energized": "true"
+		},
+		"Name": "hexgloop:gloopy_slate_chest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "single",
+			"facing": "east",
+			"energized": "true"
+		},
+		"Name": "hexgloop:gloopy_slate_chest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "single",
+			"facing": "east",
+			"energized": "true"
+		},
+		"Name": "hexgloop:gloopy_slate_chest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "left",
+			"facing": "east",
+			"energized": "true"
+		},
+		"Name": "hexgloop:gloopy_slate_chest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "left",
+			"facing": "east",
+			"energized": "true"
+		},
+		"Name": "hexgloop:gloopy_slate_chest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "right",
+			"facing": "east",
+			"energized": "true"
+		},
+		"Name": "hexgloop:gloopy_slate_chest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "right",
+			"facing": "east",
+			"energized": "true"
+		},
+		"Name": "hexgloop:gloopy_slate_chest"
+	},
+	{
+		"Name": "hexgloop:gloopy_slate_chest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "single",
+			"facing": "north",
+			"energized": "false"
+		},
+		"Name": "hexgloop:gloopy_slate_chest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "left",
+			"facing": "north",
+			"energized": "false"
+		},
+		"Name": "hexgloop:gloopy_slate_chest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "left",
+			"facing": "north",
+			"energized": "false"
+		},
+		"Name": "hexgloop:gloopy_slate_chest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "right",
+			"facing": "north",
+			"energized": "false"
+		},
+		"Name": "hexgloop:gloopy_slate_chest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "right",
+			"facing": "north",
+			"energized": "false"
+		},
+		"Name": "hexgloop:gloopy_slate_chest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "single",
+			"facing": "south",
+			"energized": "false"
+		},
+		"Name": "hexgloop:gloopy_slate_chest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "single",
+			"facing": "south",
+			"energized": "false"
+		},
+		"Name": "hexgloop:gloopy_slate_chest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "left",
+			"facing": "south",
+			"energized": "false"
+		},
+		"Name": "hexgloop:gloopy_slate_chest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "left",
+			"facing": "south",
+			"energized": "false"
+		},
+		"Name": "hexgloop:gloopy_slate_chest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "right",
+			"facing": "south",
+			"energized": "false"
+		},
+		"Name": "hexgloop:gloopy_slate_chest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "right",
+			"facing": "south",
+			"energized": "false"
+		},
+		"Name": "hexgloop:gloopy_slate_chest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "single",
+			"facing": "west",
+			"energized": "false"
+		},
+		"Name": "hexgloop:gloopy_slate_chest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "single",
+			"facing": "west",
+			"energized": "false"
+		},
+		"Name": "hexgloop:gloopy_slate_chest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "left",
+			"facing": "west",
+			"energized": "false"
+		},
+		"Name": "hexgloop:gloopy_slate_chest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "left",
+			"facing": "west",
+			"energized": "false"
+		},
+		"Name": "hexgloop:gloopy_slate_chest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "right",
+			"facing": "west",
+			"energized": "false"
+		},
+		"Name": "hexgloop:gloopy_slate_chest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "right",
+			"facing": "west",
+			"energized": "false"
+		},
+		"Name": "hexgloop:gloopy_slate_chest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "single",
+			"facing": "east",
+			"energized": "false"
+		},
+		"Name": "hexgloop:gloopy_slate_chest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "single",
+			"facing": "east",
+			"energized": "false"
+		},
+		"Name": "hexgloop:gloopy_slate_chest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "left",
+			"facing": "east",
+			"energized": "false"
+		},
+		"Name": "hexgloop:gloopy_slate_chest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "left",
+			"facing": "east",
+			"energized": "false"
+		},
+		"Name": "hexgloop:gloopy_slate_chest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"type": "right",
+			"facing": "east",
+			"energized": "false"
+		},
+		"Name": "hexgloop:gloopy_slate_chest"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"type": "right",
+			"facing": "east",
+			"energized": "false"
+		},
+		"Name": "hexgloop:gloopy_slate_chest"
+	}
+]

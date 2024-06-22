@@ -1,0 +1,1445 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"cup_type": "small",
+			"cup_count": "0"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"cup_type": "small",
+			"cup_count": "0"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"cup_type": "small",
+			"cup_count": "0"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"cup_type": "small",
+			"cup_count": "0"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"cup_type": "medium",
+			"cup_count": "0"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"cup_type": "medium",
+			"cup_count": "0"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"cup_type": "medium",
+			"cup_count": "0"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"cup_type": "medium",
+			"cup_count": "0"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"cup_type": "coffee_mug",
+			"cup_count": "0"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"cup_type": "coffee_mug",
+			"cup_count": "0"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"cup_type": "coffee_mug",
+			"cup_count": "0"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"cup_type": "coffee_mug",
+			"cup_count": "0"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"cup_type": "large",
+			"cup_count": "0"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"cup_type": "large",
+			"cup_count": "0"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"cup_type": "large",
+			"cup_count": "0"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"cup_type": "large",
+			"cup_count": "0"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"cup_type": "small",
+			"cup_count": "1"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"cup_type": "small",
+			"cup_count": "1"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"cup_type": "small",
+			"cup_count": "1"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"cup_type": "small",
+			"cup_count": "1"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"cup_type": "medium",
+			"cup_count": "1"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"cup_type": "medium",
+			"cup_count": "1"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"cup_type": "medium",
+			"cup_count": "1"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"cup_type": "medium",
+			"cup_count": "1"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"cup_type": "coffee_mug",
+			"cup_count": "1"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"cup_type": "coffee_mug",
+			"cup_count": "1"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"cup_type": "coffee_mug",
+			"cup_count": "1"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"cup_type": "large",
+			"cup_count": "1"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"cup_type": "large",
+			"cup_count": "1"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"cup_type": "large",
+			"cup_count": "1"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"cup_type": "large",
+			"cup_count": "1"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"cup_type": "small",
+			"cup_count": "2"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"cup_type": "small",
+			"cup_count": "2"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"cup_type": "small",
+			"cup_count": "2"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"cup_type": "small",
+			"cup_count": "2"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"cup_type": "medium",
+			"cup_count": "2"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"cup_type": "medium",
+			"cup_count": "2"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"cup_type": "medium",
+			"cup_count": "2"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"cup_type": "medium",
+			"cup_count": "2"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"cup_type": "coffee_mug",
+			"cup_count": "2"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"cup_type": "coffee_mug",
+			"cup_count": "2"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"cup_type": "coffee_mug",
+			"cup_count": "2"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"cup_type": "coffee_mug",
+			"cup_count": "2"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"cup_type": "large",
+			"cup_count": "2"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"cup_type": "large",
+			"cup_count": "2"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"cup_type": "large",
+			"cup_count": "2"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"cup_type": "large",
+			"cup_count": "2"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"cup_type": "small",
+			"cup_count": "3"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"cup_type": "small",
+			"cup_count": "3"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"cup_type": "small",
+			"cup_count": "3"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"cup_type": "small",
+			"cup_count": "3"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"cup_type": "medium",
+			"cup_count": "3"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"cup_type": "medium",
+			"cup_count": "3"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"cup_type": "medium",
+			"cup_count": "3"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"cup_type": "medium",
+			"cup_count": "3"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"cup_type": "coffee_mug",
+			"cup_count": "3"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"cup_type": "coffee_mug",
+			"cup_count": "3"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"cup_type": "coffee_mug",
+			"cup_count": "3"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"cup_type": "coffee_mug",
+			"cup_count": "3"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"cup_type": "large",
+			"cup_count": "3"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"cup_type": "large",
+			"cup_count": "3"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"cup_type": "large",
+			"cup_count": "3"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"cup_type": "large",
+			"cup_count": "3"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"cup_type": "small",
+			"cup_count": "4"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"cup_type": "small",
+			"cup_count": "4"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"cup_type": "small",
+			"cup_count": "4"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"cup_type": "small",
+			"cup_count": "4"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"cup_type": "medium",
+			"cup_count": "4"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"cup_type": "medium",
+			"cup_count": "4"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"cup_type": "medium",
+			"cup_count": "4"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"cup_type": "medium",
+			"cup_count": "4"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"cup_type": "coffee_mug",
+			"cup_count": "4"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"cup_type": "coffee_mug",
+			"cup_count": "4"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"cup_type": "coffee_mug",
+			"cup_count": "4"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"cup_type": "coffee_mug",
+			"cup_count": "4"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"cup_type": "large",
+			"cup_count": "4"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"cup_type": "large",
+			"cup_count": "4"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"cup_type": "large",
+			"cup_count": "4"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"cup_type": "large",
+			"cup_count": "4"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"cup_type": "small",
+			"cup_count": "5"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"cup_type": "small",
+			"cup_count": "5"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"cup_type": "small",
+			"cup_count": "5"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"cup_type": "small",
+			"cup_count": "5"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"cup_type": "medium",
+			"cup_count": "5"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"cup_type": "medium",
+			"cup_count": "5"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"cup_type": "medium",
+			"cup_count": "5"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"cup_type": "medium",
+			"cup_count": "5"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"cup_type": "coffee_mug",
+			"cup_count": "5"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"cup_type": "coffee_mug",
+			"cup_count": "5"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"cup_type": "coffee_mug",
+			"cup_count": "5"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"cup_type": "coffee_mug",
+			"cup_count": "5"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"cup_type": "large",
+			"cup_count": "5"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"cup_type": "large",
+			"cup_count": "5"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"cup_type": "large",
+			"cup_count": "5"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"cup_type": "large",
+			"cup_count": "5"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"cup_type": "small",
+			"cup_count": "6"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"cup_type": "small",
+			"cup_count": "6"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"cup_type": "small",
+			"cup_count": "6"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"cup_type": "small",
+			"cup_count": "6"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"cup_type": "medium",
+			"cup_count": "6"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"cup_type": "medium",
+			"cup_count": "6"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"cup_type": "medium",
+			"cup_count": "6"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"cup_type": "medium",
+			"cup_count": "6"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"cup_type": "coffee_mug",
+			"cup_count": "6"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"cup_type": "coffee_mug",
+			"cup_count": "6"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"cup_type": "coffee_mug",
+			"cup_count": "6"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"cup_type": "coffee_mug",
+			"cup_count": "6"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"cup_type": "large",
+			"cup_count": "6"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"cup_type": "large",
+			"cup_count": "6"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"cup_type": "large",
+			"cup_count": "6"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"cup_type": "large",
+			"cup_count": "6"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"cup_type": "small",
+			"cup_count": "7"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"cup_type": "small",
+			"cup_count": "7"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"cup_type": "small",
+			"cup_count": "7"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"cup_type": "small",
+			"cup_count": "7"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"cup_type": "medium",
+			"cup_count": "7"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"cup_type": "medium",
+			"cup_count": "7"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"cup_type": "medium",
+			"cup_count": "7"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"cup_type": "medium",
+			"cup_count": "7"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"cup_type": "coffee_mug",
+			"cup_count": "7"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"cup_type": "coffee_mug",
+			"cup_count": "7"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"cup_type": "coffee_mug",
+			"cup_count": "7"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"cup_type": "coffee_mug",
+			"cup_count": "7"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"cup_type": "large",
+			"cup_count": "7"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"cup_type": "large",
+			"cup_count": "7"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"cup_type": "large",
+			"cup_count": "7"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"cup_type": "large",
+			"cup_count": "7"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"cup_type": "small",
+			"cup_count": "8"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"cup_type": "small",
+			"cup_count": "8"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"cup_type": "small",
+			"cup_count": "8"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"cup_type": "small",
+			"cup_count": "8"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"cup_type": "medium",
+			"cup_count": "8"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"cup_type": "medium",
+			"cup_count": "8"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"cup_type": "medium",
+			"cup_count": "8"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"cup_type": "medium",
+			"cup_count": "8"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"cup_type": "coffee_mug",
+			"cup_count": "8"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"cup_type": "coffee_mug",
+			"cup_count": "8"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"cup_type": "coffee_mug",
+			"cup_count": "8"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"cup_type": "coffee_mug",
+			"cup_count": "8"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"cup_type": "large",
+			"cup_count": "8"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"cup_type": "large",
+			"cup_count": "8"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"cup_type": "large",
+			"cup_count": "8"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"cup_type": "large",
+			"cup_count": "8"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"cup_type": "small",
+			"cup_count": "9"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"cup_type": "small",
+			"cup_count": "9"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"cup_type": "small",
+			"cup_count": "9"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"cup_type": "small",
+			"cup_count": "9"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"cup_type": "medium",
+			"cup_count": "9"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"cup_type": "medium",
+			"cup_count": "9"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"cup_type": "medium",
+			"cup_count": "9"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"cup_type": "medium",
+			"cup_count": "9"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"cup_type": "coffee_mug",
+			"cup_count": "9"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"cup_type": "coffee_mug",
+			"cup_count": "9"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"cup_type": "coffee_mug",
+			"cup_count": "9"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"cup_type": "coffee_mug",
+			"cup_count": "9"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"cup_type": "large",
+			"cup_count": "9"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"cup_type": "large",
+			"cup_count": "9"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"cup_type": "large",
+			"cup_count": "9"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"cup_type": "large",
+			"cup_count": "9"
+		},
+		"Name": "ravencoffee:stacking_cups_block"
+	}
+]

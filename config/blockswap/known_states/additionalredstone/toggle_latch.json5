@@ -1,0 +1,70 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "additionalredstone:toggle_latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"outputside": "right",
+			"facing": "north"
+		},
+		"Name": "additionalredstone:toggle_latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"outputside": "left",
+			"facing": "south"
+		},
+		"Name": "additionalredstone:toggle_latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"outputside": "right",
+			"facing": "south"
+		},
+		"Name": "additionalredstone:toggle_latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"outputside": "left",
+			"facing": "west"
+		},
+		"Name": "additionalredstone:toggle_latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"outputside": "right",
+			"facing": "west"
+		},
+		"Name": "additionalredstone:toggle_latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"outputside": "left",
+			"facing": "east"
+		},
+		"Name": "additionalredstone:toggle_latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"outputside": "right",
+			"facing": "east"
+		},
+		"Name": "additionalredstone:toggle_latch"
+	}
+]

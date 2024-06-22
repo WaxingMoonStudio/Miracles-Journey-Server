@@ -1,0 +1,1157 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "0",
+			"facing": "north",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "1",
+			"facing": "north",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "2",
+			"facing": "north",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "3",
+			"facing": "north",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "4",
+			"facing": "north",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "5",
+			"facing": "north",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "6",
+			"facing": "north",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "7",
+			"facing": "north",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "8",
+			"facing": "north",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "9",
+			"facing": "north",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "10",
+			"facing": "north",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "11",
+			"facing": "north",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "12",
+			"facing": "north",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "13",
+			"facing": "north",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "14",
+			"facing": "north",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "15",
+			"facing": "north",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "0",
+			"facing": "south",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "1",
+			"facing": "south",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "2",
+			"facing": "south",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "3",
+			"facing": "south",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "4",
+			"facing": "south",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "5",
+			"facing": "south",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "6",
+			"facing": "south",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "7",
+			"facing": "south",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "8",
+			"facing": "south",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "9",
+			"facing": "south",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "10",
+			"facing": "south",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "11",
+			"facing": "south",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "12",
+			"facing": "south",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "13",
+			"facing": "south",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "14",
+			"facing": "south",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "15",
+			"facing": "south",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "0",
+			"facing": "west",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "1",
+			"facing": "west",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "2",
+			"facing": "west",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "3",
+			"facing": "west",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "4",
+			"facing": "west",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "5",
+			"facing": "west",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "6",
+			"facing": "west",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "7",
+			"facing": "west",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "8",
+			"facing": "west",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "9",
+			"facing": "west",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "10",
+			"facing": "west",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "11",
+			"facing": "west",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "12",
+			"facing": "west",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "13",
+			"facing": "west",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "14",
+			"facing": "west",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "15",
+			"facing": "west",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "0",
+			"facing": "east",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "1",
+			"facing": "east",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "2",
+			"facing": "east",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "3",
+			"facing": "east",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "4",
+			"facing": "east",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "5",
+			"facing": "east",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "6",
+			"facing": "east",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "7",
+			"facing": "east",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "8",
+			"facing": "east",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "9",
+			"facing": "east",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "10",
+			"facing": "east",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "11",
+			"facing": "east",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "12",
+			"facing": "east",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "13",
+			"facing": "east",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "14",
+			"facing": "east",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "15",
+			"facing": "east",
+			"eye": "true"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "1",
+			"facing": "north",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "2",
+			"facing": "north",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "3",
+			"facing": "north",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "4",
+			"facing": "north",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "5",
+			"facing": "north",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "6",
+			"facing": "north",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "7",
+			"facing": "north",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "8",
+			"facing": "north",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "9",
+			"facing": "north",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "10",
+			"facing": "north",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "11",
+			"facing": "north",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "12",
+			"facing": "north",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "13",
+			"facing": "north",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "14",
+			"facing": "north",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "15",
+			"facing": "north",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "0",
+			"facing": "south",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "1",
+			"facing": "south",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "2",
+			"facing": "south",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "3",
+			"facing": "south",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "4",
+			"facing": "south",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "5",
+			"facing": "south",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "6",
+			"facing": "south",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "7",
+			"facing": "south",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "8",
+			"facing": "south",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "9",
+			"facing": "south",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "10",
+			"facing": "south",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "11",
+			"facing": "south",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "12",
+			"facing": "south",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "13",
+			"facing": "south",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "14",
+			"facing": "south",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "15",
+			"facing": "south",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "0",
+			"facing": "west",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "1",
+			"facing": "west",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "2",
+			"facing": "west",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "3",
+			"facing": "west",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "4",
+			"facing": "west",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "5",
+			"facing": "west",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "6",
+			"facing": "west",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "7",
+			"facing": "west",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "8",
+			"facing": "west",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "9",
+			"facing": "west",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "10",
+			"facing": "west",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "11",
+			"facing": "west",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "12",
+			"facing": "west",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "13",
+			"facing": "west",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "14",
+			"facing": "west",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "15",
+			"facing": "west",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "0",
+			"facing": "east",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "1",
+			"facing": "east",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "2",
+			"facing": "east",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "3",
+			"facing": "east",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "4",
+			"facing": "east",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "5",
+			"facing": "east",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "6",
+			"facing": "east",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "7",
+			"facing": "east",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "8",
+			"facing": "east",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "9",
+			"facing": "east",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "10",
+			"facing": "east",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "11",
+			"facing": "east",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "12",
+			"facing": "east",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "13",
+			"facing": "east",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "14",
+			"facing": "east",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"power": "15",
+			"facing": "east",
+			"eye": "false"
+		},
+		"Name": "utilitix:linked_repeater"
+	}
+]

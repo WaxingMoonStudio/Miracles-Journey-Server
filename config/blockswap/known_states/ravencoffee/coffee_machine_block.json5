@@ -1,0 +1,1538 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "true",
+			"has_coffee": "true",
+			"facing": "north",
+			"enabled": "true",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "true",
+			"has_coffee": "true",
+			"facing": "north",
+			"enabled": "true",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "false",
+			"has_coffee": "true",
+			"facing": "north",
+			"enabled": "true",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "false",
+			"has_coffee": "true",
+			"facing": "north",
+			"enabled": "true",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "true",
+			"has_coffee": "false",
+			"facing": "north",
+			"enabled": "true",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "true",
+			"has_coffee": "false",
+			"facing": "north",
+			"enabled": "true",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "false",
+			"has_coffee": "false",
+			"facing": "north",
+			"enabled": "true",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "false",
+			"has_coffee": "false",
+			"facing": "north",
+			"enabled": "true",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "true",
+			"has_coffee": "true",
+			"facing": "south",
+			"enabled": "true",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "true",
+			"has_coffee": "true",
+			"facing": "south",
+			"enabled": "true",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "false",
+			"has_coffee": "true",
+			"facing": "south",
+			"enabled": "true",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "false",
+			"has_coffee": "true",
+			"facing": "south",
+			"enabled": "true",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "true",
+			"has_coffee": "false",
+			"facing": "south",
+			"enabled": "true",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "true",
+			"has_coffee": "false",
+			"facing": "south",
+			"enabled": "true",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "false",
+			"has_coffee": "false",
+			"facing": "south",
+			"enabled": "true",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "false",
+			"has_coffee": "false",
+			"facing": "south",
+			"enabled": "true",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "true",
+			"has_coffee": "true",
+			"facing": "west",
+			"enabled": "true",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "true",
+			"has_coffee": "true",
+			"facing": "west",
+			"enabled": "true",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "false",
+			"has_coffee": "true",
+			"facing": "west",
+			"enabled": "true",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "false",
+			"has_coffee": "true",
+			"facing": "west",
+			"enabled": "true",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "true",
+			"has_coffee": "false",
+			"facing": "west",
+			"enabled": "true",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "true",
+			"has_coffee": "false",
+			"facing": "west",
+			"enabled": "true",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "false",
+			"has_coffee": "false",
+			"facing": "west",
+			"enabled": "true",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "false",
+			"has_coffee": "false",
+			"facing": "west",
+			"enabled": "true",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "true",
+			"has_coffee": "true",
+			"facing": "east",
+			"enabled": "true",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "true",
+			"has_coffee": "true",
+			"facing": "east",
+			"enabled": "true",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "false",
+			"has_coffee": "true",
+			"facing": "east",
+			"enabled": "true",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "false",
+			"has_coffee": "true",
+			"facing": "east",
+			"enabled": "true",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "true",
+			"has_coffee": "false",
+			"facing": "east",
+			"enabled": "true",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "true",
+			"has_coffee": "false",
+			"facing": "east",
+			"enabled": "true",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "false",
+			"has_coffee": "false",
+			"facing": "east",
+			"enabled": "true",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "false",
+			"has_coffee": "false",
+			"facing": "east",
+			"enabled": "true",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "true",
+			"has_coffee": "true",
+			"facing": "north",
+			"enabled": "false",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "true",
+			"has_coffee": "true",
+			"facing": "north",
+			"enabled": "false",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "false",
+			"has_coffee": "true",
+			"facing": "north",
+			"enabled": "false",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "false",
+			"has_coffee": "true",
+			"facing": "north",
+			"enabled": "false",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "true",
+			"has_coffee": "false",
+			"facing": "north",
+			"enabled": "false",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "true",
+			"has_coffee": "false",
+			"facing": "north",
+			"enabled": "false",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "false",
+			"has_coffee": "false",
+			"facing": "north",
+			"enabled": "false",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "false",
+			"has_coffee": "false",
+			"facing": "north",
+			"enabled": "false",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "true",
+			"has_coffee": "true",
+			"facing": "south",
+			"enabled": "false",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "true",
+			"has_coffee": "true",
+			"facing": "south",
+			"enabled": "false",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "false",
+			"has_coffee": "true",
+			"facing": "south",
+			"enabled": "false",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "false",
+			"has_coffee": "true",
+			"facing": "south",
+			"enabled": "false",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "true",
+			"has_coffee": "false",
+			"facing": "south",
+			"enabled": "false",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "true",
+			"has_coffee": "false",
+			"facing": "south",
+			"enabled": "false",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "false",
+			"has_coffee": "false",
+			"facing": "south",
+			"enabled": "false",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "false",
+			"has_coffee": "false",
+			"facing": "south",
+			"enabled": "false",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "true",
+			"has_coffee": "true",
+			"facing": "west",
+			"enabled": "false",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "true",
+			"has_coffee": "true",
+			"facing": "west",
+			"enabled": "false",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "false",
+			"has_coffee": "true",
+			"facing": "west",
+			"enabled": "false",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "false",
+			"has_coffee": "true",
+			"facing": "west",
+			"enabled": "false",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "true",
+			"has_coffee": "false",
+			"facing": "west",
+			"enabled": "false",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "true",
+			"has_coffee": "false",
+			"facing": "west",
+			"enabled": "false",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "false",
+			"has_coffee": "false",
+			"facing": "west",
+			"enabled": "false",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "false",
+			"has_coffee": "false",
+			"facing": "west",
+			"enabled": "false",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "true",
+			"has_coffee": "true",
+			"facing": "east",
+			"enabled": "false",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "true",
+			"has_coffee": "true",
+			"facing": "east",
+			"enabled": "false",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "false",
+			"has_coffee": "true",
+			"facing": "east",
+			"enabled": "false",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "false",
+			"has_coffee": "true",
+			"facing": "east",
+			"enabled": "false",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "true",
+			"has_coffee": "false",
+			"facing": "east",
+			"enabled": "false",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "true",
+			"has_coffee": "false",
+			"facing": "east",
+			"enabled": "false",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "false",
+			"has_coffee": "false",
+			"facing": "east",
+			"enabled": "false",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "false",
+			"has_coffee": "false",
+			"facing": "east",
+			"enabled": "false",
+			"active": "true"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "true",
+			"has_coffee": "true",
+			"facing": "north",
+			"enabled": "true",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "true",
+			"has_coffee": "true",
+			"facing": "north",
+			"enabled": "true",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "false",
+			"has_coffee": "true",
+			"facing": "north",
+			"enabled": "true",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "false",
+			"has_coffee": "true",
+			"facing": "north",
+			"enabled": "true",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "true",
+			"has_coffee": "false",
+			"facing": "north",
+			"enabled": "true",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "true",
+			"has_coffee": "false",
+			"facing": "north",
+			"enabled": "true",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "false",
+			"has_coffee": "false",
+			"facing": "north",
+			"enabled": "true",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "true",
+			"has_coffee": "true",
+			"facing": "south",
+			"enabled": "true",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "true",
+			"has_coffee": "true",
+			"facing": "south",
+			"enabled": "true",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "false",
+			"has_coffee": "true",
+			"facing": "south",
+			"enabled": "true",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "false",
+			"has_coffee": "true",
+			"facing": "south",
+			"enabled": "true",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "true",
+			"has_coffee": "false",
+			"facing": "south",
+			"enabled": "true",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "true",
+			"has_coffee": "false",
+			"facing": "south",
+			"enabled": "true",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "false",
+			"has_coffee": "false",
+			"facing": "south",
+			"enabled": "true",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "false",
+			"has_coffee": "false",
+			"facing": "south",
+			"enabled": "true",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "true",
+			"has_coffee": "true",
+			"facing": "west",
+			"enabled": "true",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "true",
+			"has_coffee": "true",
+			"facing": "west",
+			"enabled": "true",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "false",
+			"has_coffee": "true",
+			"facing": "west",
+			"enabled": "true",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "false",
+			"has_coffee": "true",
+			"facing": "west",
+			"enabled": "true",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "true",
+			"has_coffee": "false",
+			"facing": "west",
+			"enabled": "true",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "true",
+			"has_coffee": "false",
+			"facing": "west",
+			"enabled": "true",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "false",
+			"has_coffee": "false",
+			"facing": "west",
+			"enabled": "true",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "false",
+			"has_coffee": "false",
+			"facing": "west",
+			"enabled": "true",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "true",
+			"has_coffee": "true",
+			"facing": "east",
+			"enabled": "true",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "true",
+			"has_coffee": "true",
+			"facing": "east",
+			"enabled": "true",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "false",
+			"has_coffee": "true",
+			"facing": "east",
+			"enabled": "true",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "false",
+			"has_coffee": "true",
+			"facing": "east",
+			"enabled": "true",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "true",
+			"has_coffee": "false",
+			"facing": "east",
+			"enabled": "true",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "true",
+			"has_coffee": "false",
+			"facing": "east",
+			"enabled": "true",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "false",
+			"has_coffee": "false",
+			"facing": "east",
+			"enabled": "true",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "false",
+			"has_coffee": "false",
+			"facing": "east",
+			"enabled": "true",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "true",
+			"has_coffee": "true",
+			"facing": "north",
+			"enabled": "false",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "true",
+			"has_coffee": "true",
+			"facing": "north",
+			"enabled": "false",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "false",
+			"has_coffee": "true",
+			"facing": "north",
+			"enabled": "false",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "false",
+			"has_coffee": "true",
+			"facing": "north",
+			"enabled": "false",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "true",
+			"has_coffee": "false",
+			"facing": "north",
+			"enabled": "false",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "true",
+			"has_coffee": "false",
+			"facing": "north",
+			"enabled": "false",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "false",
+			"has_coffee": "false",
+			"facing": "north",
+			"enabled": "false",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "false",
+			"has_coffee": "false",
+			"facing": "north",
+			"enabled": "false",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "true",
+			"has_coffee": "true",
+			"facing": "south",
+			"enabled": "false",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "true",
+			"has_coffee": "true",
+			"facing": "south",
+			"enabled": "false",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "false",
+			"has_coffee": "true",
+			"facing": "south",
+			"enabled": "false",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "false",
+			"has_coffee": "true",
+			"facing": "south",
+			"enabled": "false",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "true",
+			"has_coffee": "false",
+			"facing": "south",
+			"enabled": "false",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "true",
+			"has_coffee": "false",
+			"facing": "south",
+			"enabled": "false",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "false",
+			"has_coffee": "false",
+			"facing": "south",
+			"enabled": "false",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "false",
+			"has_coffee": "false",
+			"facing": "south",
+			"enabled": "false",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "true",
+			"has_coffee": "true",
+			"facing": "west",
+			"enabled": "false",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "true",
+			"has_coffee": "true",
+			"facing": "west",
+			"enabled": "false",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "false",
+			"has_coffee": "true",
+			"facing": "west",
+			"enabled": "false",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "false",
+			"has_coffee": "true",
+			"facing": "west",
+			"enabled": "false",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "true",
+			"has_coffee": "false",
+			"facing": "west",
+			"enabled": "false",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "true",
+			"has_coffee": "false",
+			"facing": "west",
+			"enabled": "false",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "false",
+			"has_coffee": "false",
+			"facing": "west",
+			"enabled": "false",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "false",
+			"has_coffee": "false",
+			"facing": "west",
+			"enabled": "false",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "true",
+			"has_coffee": "true",
+			"facing": "east",
+			"enabled": "false",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "true",
+			"has_coffee": "true",
+			"facing": "east",
+			"enabled": "false",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "false",
+			"has_coffee": "true",
+			"facing": "east",
+			"enabled": "false",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "false",
+			"has_coffee": "true",
+			"facing": "east",
+			"enabled": "false",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "true",
+			"has_coffee": "false",
+			"facing": "east",
+			"enabled": "false",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "true",
+			"has_coffee": "false",
+			"facing": "east",
+			"enabled": "false",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "true",
+			"has_input_cup": "false",
+			"has_coffee": "false",
+			"facing": "east",
+			"enabled": "false",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"has_output": "false",
+			"has_input_cup": "false",
+			"has_coffee": "false",
+			"facing": "east",
+			"enabled": "false",
+			"active": "false"
+		},
+		"Name": "ravencoffee:coffee_machine_block"
+	}
+]

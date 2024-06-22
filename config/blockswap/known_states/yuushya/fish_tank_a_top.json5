@@ -1,0 +1,1157 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "south",
+			"xpos": "west",
+			"form": "0"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "middle",
+			"xpos": "west",
+			"form": "0"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "none",
+			"xpos": "west",
+			"form": "0"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "north",
+			"xpos": "east",
+			"form": "0"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "south",
+			"xpos": "east",
+			"form": "0"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "middle",
+			"xpos": "east",
+			"form": "0"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "none",
+			"xpos": "east",
+			"form": "0"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "north",
+			"xpos": "middle",
+			"form": "0"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "south",
+			"xpos": "middle",
+			"form": "0"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "middle",
+			"xpos": "middle",
+			"form": "0"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "none",
+			"xpos": "middle",
+			"form": "0"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "north",
+			"xpos": "none",
+			"form": "0"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "south",
+			"xpos": "none",
+			"form": "0"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "middle",
+			"xpos": "none",
+			"form": "0"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "none",
+			"xpos": "none",
+			"form": "0"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "north",
+			"xpos": "west",
+			"form": "1"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "south",
+			"xpos": "west",
+			"form": "1"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "middle",
+			"xpos": "west",
+			"form": "1"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "none",
+			"xpos": "west",
+			"form": "1"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "north",
+			"xpos": "east",
+			"form": "1"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "south",
+			"xpos": "east",
+			"form": "1"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "middle",
+			"xpos": "east",
+			"form": "1"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "none",
+			"xpos": "east",
+			"form": "1"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "north",
+			"xpos": "middle",
+			"form": "1"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "south",
+			"xpos": "middle",
+			"form": "1"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "middle",
+			"xpos": "middle",
+			"form": "1"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "none",
+			"xpos": "middle",
+			"form": "1"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "north",
+			"xpos": "none",
+			"form": "1"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "south",
+			"xpos": "none",
+			"form": "1"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "middle",
+			"xpos": "none",
+			"form": "1"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "none",
+			"xpos": "none",
+			"form": "1"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "north",
+			"xpos": "west",
+			"form": "2"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "south",
+			"xpos": "west",
+			"form": "2"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "middle",
+			"xpos": "west",
+			"form": "2"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "none",
+			"xpos": "west",
+			"form": "2"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "north",
+			"xpos": "east",
+			"form": "2"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "south",
+			"xpos": "east",
+			"form": "2"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "middle",
+			"xpos": "east",
+			"form": "2"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "none",
+			"xpos": "east",
+			"form": "2"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "north",
+			"xpos": "middle",
+			"form": "2"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "south",
+			"xpos": "middle",
+			"form": "2"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "middle",
+			"xpos": "middle",
+			"form": "2"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "none",
+			"xpos": "middle",
+			"form": "2"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "north",
+			"xpos": "none",
+			"form": "2"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "south",
+			"xpos": "none",
+			"form": "2"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "middle",
+			"xpos": "none",
+			"form": "2"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "none",
+			"xpos": "none",
+			"form": "2"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "north",
+			"xpos": "west",
+			"form": "3"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "south",
+			"xpos": "west",
+			"form": "3"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "middle",
+			"xpos": "west",
+			"form": "3"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "none",
+			"xpos": "west",
+			"form": "3"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "north",
+			"xpos": "east",
+			"form": "3"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "south",
+			"xpos": "east",
+			"form": "3"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "middle",
+			"xpos": "east",
+			"form": "3"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "none",
+			"xpos": "east",
+			"form": "3"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "north",
+			"xpos": "middle",
+			"form": "3"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "south",
+			"xpos": "middle",
+			"form": "3"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "middle",
+			"xpos": "middle",
+			"form": "3"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "none",
+			"xpos": "middle",
+			"form": "3"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "north",
+			"xpos": "none",
+			"form": "3"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "south",
+			"xpos": "none",
+			"form": "3"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "middle",
+			"xpos": "none",
+			"form": "3"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "none",
+			"xpos": "none",
+			"form": "3"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "north",
+			"xpos": "west",
+			"form": "4"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "south",
+			"xpos": "west",
+			"form": "4"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "middle",
+			"xpos": "west",
+			"form": "4"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "none",
+			"xpos": "west",
+			"form": "4"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "north",
+			"xpos": "east",
+			"form": "4"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "south",
+			"xpos": "east",
+			"form": "4"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "middle",
+			"xpos": "east",
+			"form": "4"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "none",
+			"xpos": "east",
+			"form": "4"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "north",
+			"xpos": "middle",
+			"form": "4"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "south",
+			"xpos": "middle",
+			"form": "4"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "middle",
+			"xpos": "middle",
+			"form": "4"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "none",
+			"xpos": "middle",
+			"form": "4"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "north",
+			"xpos": "none",
+			"form": "4"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "south",
+			"xpos": "none",
+			"form": "4"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "middle",
+			"xpos": "none",
+			"form": "4"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "none",
+			"xpos": "none",
+			"form": "4"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "north",
+			"xpos": "west",
+			"form": "5"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "south",
+			"xpos": "west",
+			"form": "5"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "middle",
+			"xpos": "west",
+			"form": "5"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "none",
+			"xpos": "west",
+			"form": "5"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "north",
+			"xpos": "east",
+			"form": "5"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "south",
+			"xpos": "east",
+			"form": "5"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "middle",
+			"xpos": "east",
+			"form": "5"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "none",
+			"xpos": "east",
+			"form": "5"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "north",
+			"xpos": "middle",
+			"form": "5"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "south",
+			"xpos": "middle",
+			"form": "5"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "middle",
+			"xpos": "middle",
+			"form": "5"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "none",
+			"xpos": "middle",
+			"form": "5"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "north",
+			"xpos": "none",
+			"form": "5"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "south",
+			"xpos": "none",
+			"form": "5"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "middle",
+			"xpos": "none",
+			"form": "5"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "none",
+			"xpos": "none",
+			"form": "5"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "north",
+			"xpos": "west",
+			"form": "6"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "south",
+			"xpos": "west",
+			"form": "6"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "middle",
+			"xpos": "west",
+			"form": "6"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "none",
+			"xpos": "west",
+			"form": "6"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "north",
+			"xpos": "east",
+			"form": "6"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "south",
+			"xpos": "east",
+			"form": "6"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "middle",
+			"xpos": "east",
+			"form": "6"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "none",
+			"xpos": "east",
+			"form": "6"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "north",
+			"xpos": "middle",
+			"form": "6"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "south",
+			"xpos": "middle",
+			"form": "6"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "middle",
+			"xpos": "middle",
+			"form": "6"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "none",
+			"xpos": "middle",
+			"form": "6"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "north",
+			"xpos": "none",
+			"form": "6"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "south",
+			"xpos": "none",
+			"form": "6"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "middle",
+			"xpos": "none",
+			"form": "6"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "none",
+			"xpos": "none",
+			"form": "6"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "north",
+			"xpos": "west",
+			"form": "7"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "south",
+			"xpos": "west",
+			"form": "7"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "middle",
+			"xpos": "west",
+			"form": "7"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "none",
+			"xpos": "west",
+			"form": "7"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "north",
+			"xpos": "east",
+			"form": "7"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "south",
+			"xpos": "east",
+			"form": "7"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "middle",
+			"xpos": "east",
+			"form": "7"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "none",
+			"xpos": "east",
+			"form": "7"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "north",
+			"xpos": "middle",
+			"form": "7"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "south",
+			"xpos": "middle",
+			"form": "7"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "middle",
+			"xpos": "middle",
+			"form": "7"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "none",
+			"xpos": "middle",
+			"form": "7"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "north",
+			"xpos": "none",
+			"form": "7"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "south",
+			"xpos": "none",
+			"form": "7"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "middle",
+			"xpos": "none",
+			"form": "7"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"zpos": "none",
+			"xpos": "none",
+			"form": "7"
+		},
+		"Name": "yuushya:fish_tank_a_top"
+	}
+]

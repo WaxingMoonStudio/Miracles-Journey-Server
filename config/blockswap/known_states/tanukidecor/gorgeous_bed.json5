@@ -1,0 +1,1538 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "true",
+			"occupied": "true",
+			"height": "1",
+			"facing": "north",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "true",
+			"occupied": "true",
+			"height": "1",
+			"facing": "north",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "false",
+			"occupied": "true",
+			"height": "1",
+			"facing": "north",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "false",
+			"occupied": "true",
+			"height": "1",
+			"facing": "north",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "true",
+			"occupied": "false",
+			"height": "1",
+			"facing": "north",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "true",
+			"occupied": "false",
+			"height": "1",
+			"facing": "north",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "false",
+			"occupied": "false",
+			"height": "1",
+			"facing": "north",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "true",
+			"occupied": "true",
+			"height": "2",
+			"facing": "north",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "true",
+			"occupied": "true",
+			"height": "2",
+			"facing": "north",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "false",
+			"occupied": "true",
+			"height": "2",
+			"facing": "north",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "false",
+			"occupied": "true",
+			"height": "2",
+			"facing": "north",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "true",
+			"occupied": "false",
+			"height": "2",
+			"facing": "north",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "true",
+			"occupied": "false",
+			"height": "2",
+			"facing": "north",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "false",
+			"occupied": "false",
+			"height": "2",
+			"facing": "north",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "false",
+			"occupied": "false",
+			"height": "2",
+			"facing": "north",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "true",
+			"occupied": "true",
+			"height": "1",
+			"facing": "south",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "true",
+			"occupied": "true",
+			"height": "1",
+			"facing": "south",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "false",
+			"occupied": "true",
+			"height": "1",
+			"facing": "south",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "false",
+			"occupied": "true",
+			"height": "1",
+			"facing": "south",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "true",
+			"occupied": "false",
+			"height": "1",
+			"facing": "south",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "true",
+			"occupied": "false",
+			"height": "1",
+			"facing": "south",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "false",
+			"occupied": "false",
+			"height": "1",
+			"facing": "south",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "false",
+			"occupied": "false",
+			"height": "1",
+			"facing": "south",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "true",
+			"occupied": "true",
+			"height": "2",
+			"facing": "south",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "true",
+			"occupied": "true",
+			"height": "2",
+			"facing": "south",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "false",
+			"occupied": "true",
+			"height": "2",
+			"facing": "south",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "false",
+			"occupied": "true",
+			"height": "2",
+			"facing": "south",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "true",
+			"occupied": "false",
+			"height": "2",
+			"facing": "south",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "true",
+			"occupied": "false",
+			"height": "2",
+			"facing": "south",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "false",
+			"occupied": "false",
+			"height": "2",
+			"facing": "south",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "false",
+			"occupied": "false",
+			"height": "2",
+			"facing": "south",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "true",
+			"occupied": "true",
+			"height": "1",
+			"facing": "west",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "true",
+			"occupied": "true",
+			"height": "1",
+			"facing": "west",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "false",
+			"occupied": "true",
+			"height": "1",
+			"facing": "west",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "false",
+			"occupied": "true",
+			"height": "1",
+			"facing": "west",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "true",
+			"occupied": "false",
+			"height": "1",
+			"facing": "west",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "true",
+			"occupied": "false",
+			"height": "1",
+			"facing": "west",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "false",
+			"occupied": "false",
+			"height": "1",
+			"facing": "west",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "false",
+			"occupied": "false",
+			"height": "1",
+			"facing": "west",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "true",
+			"occupied": "true",
+			"height": "2",
+			"facing": "west",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "true",
+			"occupied": "true",
+			"height": "2",
+			"facing": "west",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "false",
+			"occupied": "true",
+			"height": "2",
+			"facing": "west",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "false",
+			"occupied": "true",
+			"height": "2",
+			"facing": "west",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "true",
+			"occupied": "false",
+			"height": "2",
+			"facing": "west",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "true",
+			"occupied": "false",
+			"height": "2",
+			"facing": "west",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "false",
+			"occupied": "false",
+			"height": "2",
+			"facing": "west",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "false",
+			"occupied": "false",
+			"height": "2",
+			"facing": "west",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "true",
+			"occupied": "true",
+			"height": "1",
+			"facing": "east",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "true",
+			"occupied": "true",
+			"height": "1",
+			"facing": "east",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "false",
+			"occupied": "true",
+			"height": "1",
+			"facing": "east",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "false",
+			"occupied": "true",
+			"height": "1",
+			"facing": "east",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "true",
+			"occupied": "false",
+			"height": "1",
+			"facing": "east",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "true",
+			"occupied": "false",
+			"height": "1",
+			"facing": "east",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "false",
+			"occupied": "false",
+			"height": "1",
+			"facing": "east",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "false",
+			"occupied": "false",
+			"height": "1",
+			"facing": "east",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "true",
+			"occupied": "true",
+			"height": "2",
+			"facing": "east",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "true",
+			"occupied": "true",
+			"height": "2",
+			"facing": "east",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "false",
+			"occupied": "true",
+			"height": "2",
+			"facing": "east",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "false",
+			"occupied": "true",
+			"height": "2",
+			"facing": "east",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "true",
+			"occupied": "false",
+			"height": "2",
+			"facing": "east",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "true",
+			"occupied": "false",
+			"height": "2",
+			"facing": "east",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "false",
+			"occupied": "false",
+			"height": "2",
+			"facing": "east",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "false",
+			"occupied": "false",
+			"height": "2",
+			"facing": "east",
+			"depth": "1"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "true",
+			"occupied": "true",
+			"height": "1",
+			"facing": "north",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "true",
+			"occupied": "true",
+			"height": "1",
+			"facing": "north",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "false",
+			"occupied": "true",
+			"height": "1",
+			"facing": "north",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "false",
+			"occupied": "true",
+			"height": "1",
+			"facing": "north",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "true",
+			"occupied": "false",
+			"height": "1",
+			"facing": "north",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "true",
+			"occupied": "false",
+			"height": "1",
+			"facing": "north",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "false",
+			"occupied": "false",
+			"height": "1",
+			"facing": "north",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "false",
+			"occupied": "false",
+			"height": "1",
+			"facing": "north",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "true",
+			"occupied": "true",
+			"height": "2",
+			"facing": "north",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "true",
+			"occupied": "true",
+			"height": "2",
+			"facing": "north",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "false",
+			"occupied": "true",
+			"height": "2",
+			"facing": "north",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "false",
+			"occupied": "true",
+			"height": "2",
+			"facing": "north",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "true",
+			"occupied": "false",
+			"height": "2",
+			"facing": "north",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "true",
+			"occupied": "false",
+			"height": "2",
+			"facing": "north",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "false",
+			"occupied": "false",
+			"height": "2",
+			"facing": "north",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "false",
+			"occupied": "false",
+			"height": "2",
+			"facing": "north",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "true",
+			"occupied": "true",
+			"height": "1",
+			"facing": "south",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "true",
+			"occupied": "true",
+			"height": "1",
+			"facing": "south",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "false",
+			"occupied": "true",
+			"height": "1",
+			"facing": "south",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "false",
+			"occupied": "true",
+			"height": "1",
+			"facing": "south",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "true",
+			"occupied": "false",
+			"height": "1",
+			"facing": "south",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "true",
+			"occupied": "false",
+			"height": "1",
+			"facing": "south",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "false",
+			"occupied": "false",
+			"height": "1",
+			"facing": "south",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "false",
+			"occupied": "false",
+			"height": "1",
+			"facing": "south",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "true",
+			"occupied": "true",
+			"height": "2",
+			"facing": "south",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "true",
+			"occupied": "true",
+			"height": "2",
+			"facing": "south",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "false",
+			"occupied": "true",
+			"height": "2",
+			"facing": "south",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "false",
+			"occupied": "true",
+			"height": "2",
+			"facing": "south",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "true",
+			"occupied": "false",
+			"height": "2",
+			"facing": "south",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "true",
+			"occupied": "false",
+			"height": "2",
+			"facing": "south",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "false",
+			"occupied": "false",
+			"height": "2",
+			"facing": "south",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "false",
+			"occupied": "false",
+			"height": "2",
+			"facing": "south",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "true",
+			"occupied": "true",
+			"height": "1",
+			"facing": "west",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "true",
+			"occupied": "true",
+			"height": "1",
+			"facing": "west",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "false",
+			"occupied": "true",
+			"height": "1",
+			"facing": "west",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "false",
+			"occupied": "true",
+			"height": "1",
+			"facing": "west",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "true",
+			"occupied": "false",
+			"height": "1",
+			"facing": "west",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "true",
+			"occupied": "false",
+			"height": "1",
+			"facing": "west",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "false",
+			"occupied": "false",
+			"height": "1",
+			"facing": "west",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "false",
+			"occupied": "false",
+			"height": "1",
+			"facing": "west",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "true",
+			"occupied": "true",
+			"height": "2",
+			"facing": "west",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "true",
+			"occupied": "true",
+			"height": "2",
+			"facing": "west",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "false",
+			"occupied": "true",
+			"height": "2",
+			"facing": "west",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "false",
+			"occupied": "true",
+			"height": "2",
+			"facing": "west",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "true",
+			"occupied": "false",
+			"height": "2",
+			"facing": "west",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "true",
+			"occupied": "false",
+			"height": "2",
+			"facing": "west",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "false",
+			"occupied": "false",
+			"height": "2",
+			"facing": "west",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "false",
+			"occupied": "false",
+			"height": "2",
+			"facing": "west",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "true",
+			"occupied": "true",
+			"height": "1",
+			"facing": "east",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "true",
+			"occupied": "true",
+			"height": "1",
+			"facing": "east",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "false",
+			"occupied": "true",
+			"height": "1",
+			"facing": "east",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "false",
+			"occupied": "true",
+			"height": "1",
+			"facing": "east",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "true",
+			"occupied": "false",
+			"height": "1",
+			"facing": "east",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "true",
+			"occupied": "false",
+			"height": "1",
+			"facing": "east",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "false",
+			"occupied": "false",
+			"height": "1",
+			"facing": "east",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "false",
+			"occupied": "false",
+			"height": "1",
+			"facing": "east",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "true",
+			"occupied": "true",
+			"height": "2",
+			"facing": "east",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "true",
+			"occupied": "true",
+			"height": "2",
+			"facing": "east",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "false",
+			"occupied": "true",
+			"height": "2",
+			"facing": "east",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "false",
+			"occupied": "true",
+			"height": "2",
+			"facing": "east",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "true",
+			"occupied": "false",
+			"height": "2",
+			"facing": "east",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "true",
+			"occupied": "false",
+			"height": "2",
+			"facing": "east",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "1",
+			"waterlogged": "false",
+			"occupied": "false",
+			"height": "2",
+			"facing": "east",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"width": "2",
+			"waterlogged": "false",
+			"occupied": "false",
+			"height": "2",
+			"facing": "east",
+			"depth": "2"
+		},
+		"Name": "tanukidecor:gorgeous_bed"
+	}
+]

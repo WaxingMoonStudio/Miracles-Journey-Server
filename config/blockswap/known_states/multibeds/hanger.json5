@@ -1,0 +1,365 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"attached": "block"
+		},
+		"Name": "multibeds:hanger"
+	},
+	{
+		"Name": "multibeds:hanger"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"attached": "block"
+		},
+		"Name": "multibeds:hanger"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"attached": "block"
+		},
+		"Name": "multibeds:hanger"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"attached": "block"
+		},
+		"Name": "multibeds:hanger"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"attached": "block"
+		},
+		"Name": "multibeds:hanger"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"attached": "block"
+		},
+		"Name": "multibeds:hanger"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"attached": "block"
+		},
+		"Name": "multibeds:hanger"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"attached": "wall"
+		},
+		"Name": "multibeds:hanger"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"attached": "wall"
+		},
+		"Name": "multibeds:hanger"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"attached": "wall"
+		},
+		"Name": "multibeds:hanger"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"attached": "wall"
+		},
+		"Name": "multibeds:hanger"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"attached": "wall"
+		},
+		"Name": "multibeds:hanger"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"attached": "wall"
+		},
+		"Name": "multibeds:hanger"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"attached": "wall"
+		},
+		"Name": "multibeds:hanger"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"attached": "wall"
+		},
+		"Name": "multibeds:hanger"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"attached": "post"
+		},
+		"Name": "multibeds:hanger"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"attached": "post"
+		},
+		"Name": "multibeds:hanger"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"attached": "post"
+		},
+		"Name": "multibeds:hanger"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"attached": "post"
+		},
+		"Name": "multibeds:hanger"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"attached": "post"
+		},
+		"Name": "multibeds:hanger"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"attached": "post"
+		},
+		"Name": "multibeds:hanger"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"attached": "post"
+		},
+		"Name": "multibeds:hanger"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"attached": "post"
+		},
+		"Name": "multibeds:hanger"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"attached": "ground"
+		},
+		"Name": "multibeds:hanger"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"attached": "ground"
+		},
+		"Name": "multibeds:hanger"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"attached": "ground"
+		},
+		"Name": "multibeds:hanger"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"attached": "ground"
+		},
+		"Name": "multibeds:hanger"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"attached": "ground"
+		},
+		"Name": "multibeds:hanger"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"attached": "ground"
+		},
+		"Name": "multibeds:hanger"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"attached": "ground"
+		},
+		"Name": "multibeds:hanger"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"attached": "ground"
+		},
+		"Name": "multibeds:hanger"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "north",
+			"attached": "ground_tall"
+		},
+		"Name": "multibeds:hanger"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "north",
+			"attached": "ground_tall"
+		},
+		"Name": "multibeds:hanger"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "south",
+			"attached": "ground_tall"
+		},
+		"Name": "multibeds:hanger"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "south",
+			"attached": "ground_tall"
+		},
+		"Name": "multibeds:hanger"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "west",
+			"attached": "ground_tall"
+		},
+		"Name": "multibeds:hanger"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "west",
+			"attached": "ground_tall"
+		},
+		"Name": "multibeds:hanger"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"facing": "east",
+			"attached": "ground_tall"
+		},
+		"Name": "multibeds:hanger"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"facing": "east",
+			"attached": "ground_tall"
+		},
+		"Name": "multibeds:hanger"
+	}
+]
