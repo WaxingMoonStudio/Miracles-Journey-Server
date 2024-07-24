@@ -56,6 +56,8 @@
 			slimeServantTexture = true
 			#If Magma Cube Servants have custom textures, Default: true
 			magmaCubeServantTexture = true
+			#If Crypt Slime Servants have custom textures, Default: true
+			cryptSlimeServantTexture = true
 
 		[Textures."Summoned Mobs"."Wild Servants"]
 			#If Quick Growing Vine servants have custom textures, Default: true
@@ -78,6 +80,14 @@
 		[Textures."Summoned Mobs"."Redstone Monstrosity"]
 			#If Redstone Monstrosities have custom textures, Default: true
 			redstoneMonstrosityTexture = true
+
+		[Textures."Summoned Mobs"."Spider Servants"]
+			#If Spiders Servants have custom textures, Default: true
+			spiderServantTexture = true
+			#If Cave Spiders Servants have custom textures, Default: true
+			caveSpiderServantTexture = true
+			#If Bone Spiders Servants have custom textures, Default: true
+			boneSpiderServantTexture = true
 
 [Servants]
 	#Whether creating a Redstone Golem causes the mold to change blocks, Default: true
@@ -106,11 +116,13 @@
 	stayingServantChunkLoad = true
 	#Enable Redstone Cubes block detection mechanic, Default: true
 	RedstoneCubeBlockFind = true
+	#Whether Servants would naturally attack Witches or Warlocks if owner wears a full a robe that renders the former two neutral, Default: false
+	variousRobeWitch = false
 
 	[Servants."Undead Servants"]
 		#Whether Undead Servants can teleport to Players, Default: false
 		undeadTeleport = false
-		#Whether Servants can attack Undead mobs if owner wears a full Necro Set, Default: false
+		#Whether Servants would naturally attack Undead mobs if owner wears a full Necro Set, Default: false
 		necroRobeUndead = false
 		#Whether Undead Servants can heal if summoned while wearing Necro Cape, Default: true
 		undeadServantsHeal = true
@@ -148,6 +160,32 @@
 		#Range: 0.0 ~ 1.7976931348623157E308
 		naturalMinionHealAmount = 0.5
 
+	[Servants."Nether Servants"]
+		#Whether Nether Servants can heal if summoned while wearing Nether Robe, Default: true
+		netherMinionHeal = true
+		#How much Soul Energy it cost per second for a Nether Servant to heal, Default: 5
+		#Range: > 0
+		netherMinionHealCost = 5
+		#How frequent Nether Servants heal, count seconds, Default: 1
+		#Range: > 0
+		netherMinionHealTime = 1
+		#How much Health Nether Servants heal, numerically, Default: 0.5
+		#Range: 0.0 ~ 1.7976931348623157E308
+		netherMinionHealAmount = 0.5
+
+	[Servants."Frost Servants"]
+		#Whether Frost Servants can heal if summoned while wearing Frost Robe, Default: true
+		frostMinionHeal = true
+		#How much Soul Energy it cost per second for a Frost Servant to heal, Default: 5
+		#Range: > 0
+		frostMinionHealCost = 5
+		#How frequent Frost Servants heal, count seconds, Default: 1
+		#Range: > 0
+		frostMinionHealTime = 1
+		#How much Health Frost Servants heal, numerically, Default: 0.5
+		#Range: 0.0 ~ 1.7976931348623157E308
+		frostMinionHealAmount = 0.5
+
 [Illagers]
 	#Whether Illague Effect can spread from non Conquillagers that has the effect, Default: true
 	illagueSpread = true
@@ -173,6 +211,12 @@
 		illagerAssaultLimit = 30000
 		#Hitting the Illager Assault Limit of Soul Energy have a chance of giving Player Bad Omen effect, Default: true
 		soulEnergyBadOmen = true
+		#How many Minecraft days of rest from Illager Assaults are added to Players killed by an Illager, Default: 2
+		#Range: > 0
+		illagerAssaultRestDeath = 2
+		#How many Minecraft days of rest from Illager Assaults the Players have after killing a Minister, Default: 10
+		#Range: > 0
+		illagerAssaultRestMinister = 10
 
 	[Illagers.Raid]
 		#Whether Modded Illagers appears in Raids, Default: true
@@ -230,16 +274,26 @@
 	wraithAggressiveTeleport = true
 	#Whether undead mobs in the Crypts remain hostile even if players wear Necro Set, Default: true
 	hostileCryptUndead = true
+	#Whether Hellfire damage is halved on entities that are fire-immune, Default: true
+	hellfireFireImmune = true
+	#Whether Hellfire damage is mitigated by Fire Protection enchantment, Default: true
+	hellfireFireProtection = true
 
 	[Misc.Apostle]
 		#Nether Meteors deals environmental damage. WARNING: Causes lots of lag. Default: false
 		apocalypseMode = false
 		#Gives Apostle an even more fancier death animation, Default: false
 		fancierApostleDeath = false
-		#Whether Apostles causes entities within 32 blocks of itself to take damage when in water. Default: true
+		#Whether Apostles causes entities within 32 blocks of themselves to take damage when in water. Default: true
 		apostleBoilsWater = true
+		#Whether Apostles causes Villagers within 32 blocks of themselves to have a chance of converting into a Witch or Warlock. Default: true
+		apostleConvertsVillagers = true
+		#Whether Apostles are persistent and do not naturally despawn. Default: false
+		apostlePersistent = true
 
 	[Misc.Vizier]
 		#Viziers spawn Vexes instead of Irks, Default: false
 		vizierMinion = false
+		#Whether Viziers are persistent and do not naturally despawn. Default: false
+		vizierPersistent = false
 

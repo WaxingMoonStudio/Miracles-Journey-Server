@@ -13,7 +13,11 @@ to make editing this file much easier.
 		"Properties": {
 			"west": "true",
 			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
 			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
 			"north": "true",
 			"east": "true"
 		},
@@ -24,7 +28,11 @@ to make editing this file much easier.
 		"Properties": {
 			"west": "false",
 			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
 			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
 			"north": "true",
 			"east": "true"
 		},
@@ -35,51 +43,11 @@ to make editing this file much easier.
 		"Properties": {
 			"west": "true",
 			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
 			"south": "true",
-			"north": "true",
-			"east": "true"
-		},
-		"Name": "copycats:copycat_fence"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"west": "false",
-			"waterlogged": "false",
-			"south": "true",
-			"north": "true",
-			"east": "true"
-		},
-		"Name": "copycats:copycat_fence"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"west": "true",
-			"waterlogged": "true",
-			"south": "false",
-			"north": "true",
-			"east": "true"
-		},
-		"Name": "copycats:copycat_fence"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"west": "false",
-			"waterlogged": "true",
-			"south": "false",
-			"north": "true",
-			"east": "true"
-		},
-		"Name": "copycats:copycat_fence"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"west": "true",
-			"waterlogged": "false",
-			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
 			"north": "true",
 			"east": "true"
 		},
@@ -90,7 +58,11 @@ to make editing this file much easier.
 		"Properties": {
 			"west": "false",
 			"waterlogged": "false",
-			"south": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
 			"north": "true",
 			"east": "true"
 		},
@@ -101,7 +73,1871 @@ to make editing this file much easier.
 		"Properties": {
 			"west": "true",
 			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
 			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
 			"north": "false",
 			"east": "true"
 		},
@@ -112,7 +1948,11 @@ to make editing this file much easier.
 		"Properties": {
 			"west": "false",
 			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
 			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
 			"north": "false",
 			"east": "true"
 		},
@@ -123,7 +1963,11 @@ to make editing this file much easier.
 		"Properties": {
 			"west": "true",
 			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
 			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
 			"north": "false",
 			"east": "true"
 		},
@@ -134,7 +1978,11 @@ to make editing this file much easier.
 		"Properties": {
 			"west": "false",
 			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
 			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
 			"north": "false",
 			"east": "true"
 		},
@@ -145,7 +1993,11 @@ to make editing this file much easier.
 		"Properties": {
 			"west": "true",
 			"waterlogged": "true",
-			"south": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
 			"north": "false",
 			"east": "true"
 		},
@@ -156,7 +2008,11 @@ to make editing this file much easier.
 		"Properties": {
 			"west": "false",
 			"waterlogged": "true",
-			"south": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
 			"north": "false",
 			"east": "true"
 		},
@@ -167,7 +2023,11 @@ to make editing this file much easier.
 		"Properties": {
 			"west": "true",
 			"waterlogged": "false",
-			"south": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
 			"north": "false",
 			"east": "true"
 		},
@@ -178,7 +2038,11 @@ to make editing this file much easier.
 		"Properties": {
 			"west": "false",
 			"waterlogged": "false",
-			"south": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
 			"north": "false",
 			"east": "true"
 		},
@@ -189,7 +2053,1811 @@ to make editing this file much easier.
 		"Properties": {
 			"west": "true",
 			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
 			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "true"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
 			"north": "true",
 			"east": "false"
 		},
@@ -200,7 +3868,11 @@ to make editing this file much easier.
 		"Properties": {
 			"west": "false",
 			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
 			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
 			"north": "true",
 			"east": "false"
 		},
@@ -211,51 +3883,11 @@ to make editing this file much easier.
 		"Properties": {
 			"west": "true",
 			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
 			"south": "true",
-			"north": "true",
-			"east": "false"
-		},
-		"Name": "copycats:copycat_fence"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"west": "false",
-			"waterlogged": "false",
-			"south": "true",
-			"north": "true",
-			"east": "false"
-		},
-		"Name": "copycats:copycat_fence"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"west": "true",
-			"waterlogged": "true",
-			"south": "false",
-			"north": "true",
-			"east": "false"
-		},
-		"Name": "copycats:copycat_fence"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"west": "false",
-			"waterlogged": "true",
-			"south": "false",
-			"north": "true",
-			"east": "false"
-		},
-		"Name": "copycats:copycat_fence"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"west": "true",
-			"waterlogged": "false",
-			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
 			"north": "true",
 			"east": "false"
 		},
@@ -266,7 +3898,11 @@ to make editing this file much easier.
 		"Properties": {
 			"west": "false",
 			"waterlogged": "false",
-			"south": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
 			"north": "true",
 			"east": "false"
 		},
@@ -277,7 +3913,1871 @@ to make editing this file much easier.
 		"Properties": {
 			"west": "true",
 			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
 			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "true",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
 			"north": "false",
 			"east": "false"
 		},
@@ -288,7 +5788,11 @@ to make editing this file much easier.
 		"Properties": {
 			"west": "false",
 			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
 			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
 			"north": "false",
 			"east": "false"
 		},
@@ -299,7 +5803,11 @@ to make editing this file much easier.
 		"Properties": {
 			"west": "true",
 			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
 			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
 			"north": "false",
 			"east": "false"
 		},
@@ -310,7 +5818,11 @@ to make editing this file much easier.
 		"Properties": {
 			"west": "false",
 			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
 			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
 			"north": "false",
 			"east": "false"
 		},
@@ -321,7 +5833,11 @@ to make editing this file much easier.
 		"Properties": {
 			"west": "true",
 			"waterlogged": "true",
-			"south": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
 			"north": "false",
 			"east": "false"
 		},
@@ -332,7 +5848,11 @@ to make editing this file much easier.
 		"Properties": {
 			"west": "false",
 			"waterlogged": "true",
-			"south": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
 			"north": "false",
 			"east": "false"
 		},
@@ -343,13 +5863,1817 @@ to make editing this file much easier.
 		"Properties": {
 			"west": "true",
 			"waterlogged": "false",
-			"south": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
 			"north": "false",
 			"east": "false"
 		},
 		"Name": "copycats:copycat_fence"
 	},
 	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "true",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "true",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "true",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "true",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "true",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "true",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "true",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
+		"Name": "copycats:copycat_fence"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "false",
+			"waterlogged": "false",
+			"south_west": "false",
+			"south_east": "false",
+			"south": "false",
+			"north_west": "false",
+			"north_east": "false",
+			"north": "false",
+			"east": "false"
+		},
 		"Name": "copycats:copycat_fence"
 	}
 ]

@@ -10,26 +10,5 @@ to make editing this file much easier.
 [
 	{
 		"Name": "ftbquests:aux_task_screen"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"facing": "south"
-		},
-		"Name": "ftbquests:aux_task_screen"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"facing": "west"
-		},
-		"Name": "ftbquests:aux_task_screen"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"facing": "east"
-		},
-		"Name": "ftbquests:aux_task_screen"
 	}
 ]

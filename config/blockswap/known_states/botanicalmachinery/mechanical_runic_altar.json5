@@ -10,26 +10,5 @@ to make editing this file much easier.
 [
 	{
 		"Name": "botanicalmachinery:mechanical_runic_altar"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"facing": "south"
-		},
-		"Name": "botanicalmachinery:mechanical_runic_altar"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"facing": "west"
-		},
-		"Name": "botanicalmachinery:mechanical_runic_altar"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"facing": "east"
-		},
-		"Name": "botanicalmachinery:mechanical_runic_altar"
 	}
 ]

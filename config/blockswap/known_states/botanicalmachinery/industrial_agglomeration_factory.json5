@@ -10,26 +10,5 @@ to make editing this file much easier.
 [
 	{
 		"Name": "botanicalmachinery:industrial_agglomeration_factory"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"facing": "south"
-		},
-		"Name": "botanicalmachinery:industrial_agglomeration_factory"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"facing": "west"
-		},
-		"Name": "botanicalmachinery:industrial_agglomeration_factory"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"facing": "east"
-		},
-		"Name": "botanicalmachinery:industrial_agglomeration_factory"
 	}
 ]

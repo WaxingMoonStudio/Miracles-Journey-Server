@@ -10,26 +10,5 @@ to make editing this file much easier.
 [
 	{
 		"Name": "botanicalmachinery:alfheim_market"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"facing": "south"
-		},
-		"Name": "botanicalmachinery:alfheim_market"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"facing": "west"
-		},
-		"Name": "botanicalmachinery:alfheim_market"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"facing": "east"
-		},
-		"Name": "botanicalmachinery:alfheim_market"
 	}
 ]

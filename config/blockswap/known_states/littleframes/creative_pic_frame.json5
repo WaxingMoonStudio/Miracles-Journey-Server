@@ -10,40 +10,5 @@ to make editing this file much easier.
 [
 	{
 		"Name": "littleframes:creative_pic_frame"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"facing": "east"
-		},
-		"Name": "littleframes:creative_pic_frame"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"facing": "south"
-		},
-		"Name": "littleframes:creative_pic_frame"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"facing": "west"
-		},
-		"Name": "littleframes:creative_pic_frame"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"facing": "up"
-		},
-		"Name": "littleframes:creative_pic_frame"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"facing": "down"
-		},
-		"Name": "littleframes:creative_pic_frame"
 	}
 ]

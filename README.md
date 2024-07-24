@@ -14,22 +14,23 @@ Agriculture | 农业 - 0
 暂无
 ```
 
-Assist | 辅助 - 60
+Assist | 辅助 - 63
 
 ```
 [Assist][AxolotlBucketFix]
 [Assist][BetterAdvancements]
 [Assist][BetterDogsXDoggyTalentsNext]
+[Assist][BetterF3]
 [Assist][BetterThirdPerson]
 [Assist][BiomeInfo]
-[Assist][BridgingMod]
 [Assist][Catalogue]
 [Assist][ChatHeads]
 [Assist][CherishedWorlds]
 [Assist][CITReforged]
 [Assist][ContingameIME]
 [Assist][Controlling]
-[Assist][CreateTrainPerspectiveFix]
+[Assist][CreateTrainPerspective]
+[Assist][CrosshairBobbing]
 [Assist][CustomSkinLoader]
 [Assist][DirectionalDamageIndicator]
 [Assist][DrippyLoadingScreen]
@@ -74,6 +75,7 @@ Assist | 辅助 - 60
 [Assist][Seamless]
 [Assist][SpyglassImprovements]
 [Assist][TexTruesEmbeddiumOptions]
+[Assist][TinyItemAnimations]
 [Assist][Tips]
 [Assist][TslatEntityStatus]
 [Assist][XaeroPlus]
@@ -109,6 +111,12 @@ Lib | 库 - 5
 ```
 
 Magic | 魔法 - 0
+
+```
+暂无
+```
+
+Technology | 科技 - 0
 
 ```
 暂无

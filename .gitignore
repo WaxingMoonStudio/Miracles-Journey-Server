@@ -1,12 +1,11 @@
 /.mixin.out
 
-/.vscode
-
 /armourers_workshop
 
 /backups
 
-# /config
+# /config - 部分
+/config/blockswap/known_states
 
 /crash-reports
 
@@ -43,8 +42,6 @@
 # /mods
 
 /patchouli_books
-
-/quests_structures
 
 /thingpacks
 

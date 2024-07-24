@@ -9,13 +9,6 @@ to make editing this file much easier.
 */
 [
 	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"powered": "true"
-		},
-		"Name": "copycats:wrapped_copycat_stone_pressure_plate"
-	},
-	{
 		"Name": "copycats:wrapped_copycat_stone_pressure_plate"
 	}
 ]

@@ -14,88 +14,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
-			"facing": "south",
-			"face": "floor"
+			"facing": "south"
 		},
 		"Name": "createindustry:steel_distillation_controller"
 	},
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
-			"facing": "west",
-			"face": "floor"
+			"facing": "west"
 		},
 		"Name": "createindustry:steel_distillation_controller"
 	},
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
-			"facing": "east",
-			"face": "floor"
-		},
-		"Name": "createindustry:steel_distillation_controller"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"facing": "north",
-			"face": "wall"
-		},
-		"Name": "createindustry:steel_distillation_controller"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"facing": "south",
-			"face": "wall"
-		},
-		"Name": "createindustry:steel_distillation_controller"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"facing": "west",
-			"face": "wall"
-		},
-		"Name": "createindustry:steel_distillation_controller"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"facing": "east",
-			"face": "wall"
-		},
-		"Name": "createindustry:steel_distillation_controller"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"facing": "north",
-			"face": "ceiling"
-		},
-		"Name": "createindustry:steel_distillation_controller"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"facing": "south",
-			"face": "ceiling"
-		},
-		"Name": "createindustry:steel_distillation_controller"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"facing": "west",
-			"face": "ceiling"
-		},
-		"Name": "createindustry:steel_distillation_controller"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"facing": "east",
-			"face": "ceiling"
+			"facing": "east"
 		},
 		"Name": "createindustry:steel_distillation_controller"
 	}

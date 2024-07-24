@@ -9,62 +9,6 @@ to make editing this file much easier.
 */
 [
 	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"waterlogged": "true",
-			"facing": "north"
-		},
-		"Name": "questsadditions:lootcrate_block"
-	},
-	{
-		"Name": "questsadditions:lootcrate_block"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"waterlogged": "true",
-			"facing": "south"
-		},
-		"Name": "questsadditions:lootcrate_block"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"waterlogged": "false",
-			"facing": "south"
-		},
-		"Name": "questsadditions:lootcrate_block"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"waterlogged": "true",
-			"facing": "west"
-		},
-		"Name": "questsadditions:lootcrate_block"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"waterlogged": "false",
-			"facing": "west"
-		},
-		"Name": "questsadditions:lootcrate_block"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"waterlogged": "true",
-			"facing": "east"
-		},
-		"Name": "questsadditions:lootcrate_block"
-	},
-	{
-		// Properties define the state of this block/fluid.
-		"Properties": {
-			"waterlogged": "false",
-			"facing": "east"
-		},
 		"Name": "questsadditions:lootcrate_block"
 	}
 ]
