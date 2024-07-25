@@ -1,6 +1,15 @@
 # 奇迹之旅服务端仓库
 
-## 各模组环境需求
+## 服务端新增
+
+```
+[Server][Chunky]
+[Server][DimensionalThreadingReforked]
+[Server][DoesPotatoTick]
+[Server][ServerCore]
+```
+
+## 仅客户端模组
 
 Adventure | 冒险 - 0
 
