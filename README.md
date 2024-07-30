@@ -4,7 +4,6 @@
 
 ```
 [Server][Chunky]
-[Server][DimensionalThreadingReforked]
 [Server][DoesPotatoTick]
 [Server][ServerCore]
 ```
